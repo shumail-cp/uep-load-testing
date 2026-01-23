@@ -1,0 +1,6 @@
+{
+  "endpoints": [
+
+    {"name": "users", "url": "/api/users/active?page=1&limit=10", "method": "GET"}
+  ]
+}

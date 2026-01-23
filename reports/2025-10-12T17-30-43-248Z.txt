@@ -1,0 +1,25 @@
+     âœ— status is 200
+      â†³  0% â€” âœ“ 0 / âœ— 40
+     âœ“ status is 4xx or 5xx (error)
+     âœ“ response time < 800ms
+     âœ“ response time < 2s (acceptable)
+     âœ“ response body is not empty
+     âœ“ response content-type is JSON
+     âœ“ contains expected keys
+
+     checks.....................: 85.71%  âœ“ 240    âœ— 40
+     data_received..............: 89 kB   15 kB/s
+     data_sent..................: 18 kB   2.9 kB/s
+     http_req_blocked...........: avg=270.8ms   min=6.8Âµs   med=13.73Âµs  max=1.09s     p(90)=1.08s     p(95)=1.08s    
+     http_req_connecting........: avg=53.6ms    min=0s       med=0s        max=216.41ms  p(90)=214.55ms  p(95)=214.75ms 
+     http_req_duration..........: avg=315.63ms  min=235.18ms med=311.05ms  max=399.35ms  p(90)=392.28ms  p(95)=394.26ms 
+     http_req_failed............: 100.00% âœ“ 40     âœ— 0 
+     http_req_receiving.........: avg=164.91Âµs min=53.26Âµs med=129.52Âµs max=437.02Âµs p(90)=274.25Âµs p(95)=358.13Âµs
+     http_req_sending...........: avg=158.65Âµs min=19.24Âµs med=48.87Âµs  max=2.13ms    p(90)=177.62Âµs p(95)=369.28Âµs
+     http_req_tls_handshaking...: avg=129.19ms  min=0s       med=0s        max=529.03ms  p(90)=518.9ms   p(95)=520.18ms 
+     http_req_waiting...........: avg=315.3ms   min=235ms    med=310.81ms  max=399.22ms  p(90)=392.13ms  p(95)=394.11ms 
+     http_reqs..................: 40      6.592983/s
+     iteration_duration.........: avg=1.65s     min=1.23s    med=1.33s     max=2.41s     p(90)=2.37s     p(95)=2.39s    
+     iterations.................: 30      4.944737/s
+     vus........................: 10      min=10     max=10
+     vus_max....................: 10      min=10     max=10

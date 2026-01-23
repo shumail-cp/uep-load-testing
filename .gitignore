@@ -1,0 +1,164 @@
+# Performance Testing - .gitignore
+
+# ====================
+# TEST RESULTS & REPORTS
+# ====================
+# Don't track test results - they're generated and change frequently
+# scripts/results/
+# reports/*.html
+# reports/*.json
+# reports/example_*.json
+# summary.json
+# summary.html
+# summary.txt
+
+# Exception: Keep one sample result for documentation
+!scripts/results/.gitkeep
+!scripts/results/sample-result.json
+
+# ====================
+# PYTHON ENVIRONMENT
+# ====================
+# Don't track virtual environment - it's machine-specific
+reports/venv/
+reports/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ====================
+# NODE.js / PNPM
+# ====================
+# Don't track node_modules - use lockfile instead
+node_modules/
+.npm
+.pnpm-store/
+.pnpm-debug.log*
+
+# Keep package.json and pnpm-lock.yaml for reproducible builds
+# !package.json
+# !pnpm-lock.yaml
+
+# ====================
+# LOGS & TEMPORARY FILES
+# ====================
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ====================
+# OS-SPECIFIC FILES
+# ====================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Linux
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ====================
+# IDE & EDITOR FILES
+# ====================
+# VS Code
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+# Keep tasks.json and other useful workspace config
+# !.vscode/tasks.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+
+# ====================
+# SENSITIVE DATA
+# ====================
+# Environment variables and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.backup*
+
+# API keys and credentials
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# ====================
+# BACKUP FILES
+# ====================
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# ====================
+# COMPRESSED FILES
+# ====================
+# Archives (usually not needed in repo)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ====================
+# DOCUMENTATION BUILDS
+# ====================
+# Generated documentation
+docs/_build/
+site/
+
+# ====================
+# CUSTOM EXCLUSIONS
+# ====================
+# Add your custom files here
+# e.g., local configuration overrides
+config.local.json
+local-settings.json
+
+# Performance test artifacts
+performance-artifacts/
+load-test-data/

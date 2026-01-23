@@ -1,0 +1,19 @@
+{
+  "name": "perf-test",
+  "private": true,
+  "scripts": {
+    "start:so": "bun run so-cqrs-projector-process.js",
+    "start:sos": "bun run soc-cqrs-projector-process.js",
+    "start:fetch-users-test": "k6 run scripts/fetch-users-test.js --env BEARER_TOKEN=$BEARER_TOKEN",
+    "start:staging-login-auth": "bun run staging-login-auth.js",
+    "start:so-create-test": "bun run so-create-test.js",
+    "start:so-list-test": "bun run so-list-test.js",
+    "test": "bun run api-loop-test.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

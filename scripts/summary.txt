@@ -1,0 +1,64 @@
+     â–ˆ Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10
+        â†³  0% â€” âœ“ 0 / âœ— 100[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10
+        â†³  0% â€” âœ“ 0 / âœ— 100[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10
+        â†³  0% â€” âœ“ 0 / âœ— 100[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10[0m
+
+   [31mâœ—[0m checks[2m.....................:[0m [36m25.00%[0m  [36;2mâœ“ 100[0m    [36;2mâœ— 300[0m
+     cleanup_time[2m...............:[0m avg=[36m0[0m            min=[36m0[0m            med=[36m0[0m            p(95)=[36m0[0m           p(99)=[36m0[0m           
+     data_received[2m..............:[0m [36m653 kB[0m  [36;2m43 kB/s[0m
+     data_sent[2m..................:[0m [36m162 kB[0m  [36;2m11 kB/s[0m
+   [31mâœ—[0m delayed_requests[2m...........:[0m [36m100[0m     [36;2m6.517022/s[0m
+   [32mâœ“[0m failures_so[2m................:[0m [36m0.00%[0m   [36;2mâœ“ 0[0m      [36;2mâœ— 100[0m
+     group_duration[2m.............:[0m avg=[36m15s[0m          min=[36m15s[0m          med=[36m15s[0m          p(95)=[36m15.02s[0m      p(99)=[36m15.03s[0m      
+     http_req_blocked[2m...........:[0m avg=[36m1.18s[0m        min=[36m1.07s[0m        med=[36m1.19s[0m        p(95)=[36m1.27s[0m       p(99)=[36m1.29s[0m       
+     http_req_connecting[2m........:[0m avg=[36m231.48ms[0m     min=[36m208.53ms[0m     med=[36m231.16ms[0m     p(95)=[36m254.63ms[0m    p(99)=[36m256.49ms[0m    
+   [31mâœ—[0m http_req_duration[2m..........:[0m avg=[36m13.81s[0m       min=[36m13.7s[0m        med=[36m13.8s[0m        p(95)=[36m13.9s[0m       p(99)=[36m13.91s[0m      
+     [31mâœ—[0m { endpoint:so }[2m..........:[0m avg=[36m13.81s[0m       min=[36m13.7s[0m        med=[36m13.8s[0m        p(95)=[36m13.9s[0m       p(99)=[36m13.91s[0m      
+   [31mâœ—[0m http_req_failed[2m............:[0m [36m100.00%[0m [36;2mâœ“ 100[0m    [36;2mâœ— 0[0m  
+     http_req_receiving[2m.........:[0m avg=[36m0s[0m           min=[36m0s[0m           med=[36m0s[0m           p(95)=[36m0s[0m          p(99)=[36m0s[0m          
+     http_req_sending[2m...........:[0m avg=[36m26.37ms[0m      min=[36m27.5Âµs[0m      med=[36m16.63ms[0m      p(95)=[36m83.11ms[0m     p(99)=[36m141.03ms[0m    
+     http_req_tls_handshaking[2m...:[0m avg=[36m524.28ms[0m     min=[36m430.81ms[0m     med=[36m526.43ms[0m     p(95)=[36m609.87ms[0m    p(99)=[36m623.59ms[0m    
+     http_req_waiting[2m...........:[0m avg=[36m13.78s[0m       min=[36m13.69s[0m       med=[36m13.76s[0m       p(95)=[36m13.89s[0m      p(99)=[36m13.91s[0m      
+     http_reqs[2m..................:[0m [36m100[0m     [36;2m6.517022/s[0m
+   [31mâœ—[0m iteration_duration[2m.........:[0m avg=[36m15.2s[0m        min=[36m15.1s[0m        med=[36m15.21s[0m       p(95)=[36m15.29s[0m      p(99)=[36m15.3s[0m       
+     iterations[2m.................:[0m [36m100[0m     [36;2m6.517022/s[0m
+     requests_so[2m................:[0m [36m100[0m     [36;2m6.517022/s[0m
+     response_time_so[2m...........:[0m avg=[36m13812.245034[0m min=[36m13709.180112[0m med=[36m13809.867959[0m p(95)=[36m13905.82829[0m p(99)=[36m13919.830831[0m
+     vus[2m........................:[0m [36m100[0m     [36;2mmin=100[0m    [36;2mmax=100[0m
+     vus_max[2m....................:[0m [36m100[0m     [36;2mmin=100[0m    [36;2mmax=100[0m
+📊 K6 Load Test Summary: uep-api-performance
+📅 Date: 2025-10-11T23:31:06.690Z
+🌐 Base URL: https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net
+🌍 Environment: staging
+⚙️ Test Configuration: VUs: 100, Duration: 10s
+👥 Max VUs: 100
+⏱️ Actual Duration: 15.3s
+🔍 Total Requests: 100
+❌ Failed Requests: 0
+⏳ Delayed Requests (>3s): 100
+🧹 Cleanup Time: 0.00ms
+🚫 Breached Thresholds: 0
+✅ Check Pass Rate: 25.00%
+🔐 Auth Errors (401/403): 0
+🚨 Rate Limit Errors (429): 0
+🛑 Server Errors (500+): 0
+⚠️ Client Errors (400+): 0
+
+📋 Endpoint Details (Sorted by Failure Rate, then Request Count):
+
+🔗 so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)
+  Requests: 100
+  Failure Rate: 0.00% (0 passes, 100 fails)
+  Avg Response Time: 13812.25ms
+  P95 Response Time: 13905.83ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+

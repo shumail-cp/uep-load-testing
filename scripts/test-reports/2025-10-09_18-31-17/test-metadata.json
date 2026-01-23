@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-10-09_18-31-17",
+  "testDate": "2025-10-09 18:31:17 UTC",
+  "testName": "uep-api-performance",
+  "environment": "staging",
+  "baseUrl": "https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net",
+  "testType": "duration",
+  "configuration": "VUs: 100, Duration: 10m",
+  "stages": "",
+  "vus": "100",
+  "duration": "10m",
+  "exitCode": 0,
+  "thresholds": {
+    "p95ResponseTime": "5000ms",
+    "errorRate": "0.10",
+    "checkRate": "0.90"
+  }
+}

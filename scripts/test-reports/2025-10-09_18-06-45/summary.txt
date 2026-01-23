@@ -1,0 +1,1530 @@
+     â–ˆ Endpoint: observation-types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types
+        â†³  7% â€” âœ“ 474 / âœ— 6130[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types
+        â†³  85% â€” âœ“ 5679 / âœ— 925[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types
+        â†³  0% â€” âœ“ 0 / âœ— 6604[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types[0m
+
+     â–ˆ Endpoint: observation-sources-dropdown-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active
+        â†³  6% â€” âœ“ 453 / âœ— 6184[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active
+        â†³  85% â€” âœ“ 5699 / âœ— 938[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active
+        â†³  0% â€” âœ“ 0 / âœ— 6637[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active[0m
+
+     â–ˆ Endpoint: incident-types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types
+        â†³  6% â€” âœ“ 445 / âœ— 6108[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types
+        â†³  86% â€” âœ“ 5671 / âœ— 882[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types
+        â†³  0% â€” âœ“ 0 / âœ— 6553[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types[0m
+
+     â–ˆ Endpoint: soc (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc
+        â†³  6% â€” âœ“ 415 / âœ— 6150[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc
+        â†³  86% â€” âœ“ 5659 / âœ— 906[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc
+        â†³  0% â€” âœ“ 0 / âœ— 6565[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc[0m
+
+     â–ˆ Endpoint: observation-sources (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources
+        â†³  6% â€” âœ“ 444 / âœ— 5955[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources
+        â†³  86% â€” âœ“ 5534 / âœ— 865[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources
+        â†³  0% â€” âœ“ 0 / âœ— 6399[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources[0m
+
+     â–ˆ Endpoint: observation-types-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted
+        â†³  6% â€” âœ“ 436 / âœ— 6269[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted
+        â†³  86% â€” âœ“ 5782 / âœ— 923[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 6705[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted[0m
+
+     â–ˆ Endpoint: departments-main-departments (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments
+        â†³  0% â€” âœ“ 0 / âœ— 6408[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments
+        â†³  88% â€” âœ“ 5669 / âœ— 739[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments
+        â†³  0% â€” âœ“ 0 / âœ— 6408[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments[0m
+
+     â–ˆ Endpoint: departments-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active
+        â†³  6% â€” âœ“ 454 / âœ— 6100[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active
+        â†³  86% â€” âœ“ 5682 / âœ— 872[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active
+        â†³  0% â€” âœ“ 0 / âœ— 6554[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active[0m
+
+     â–ˆ Endpoint: observation-types-dropdown-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active
+        â†³  7% â€” âœ“ 482 / âœ— 6158[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active
+        â†³  86% â€” âœ“ 5724 / âœ— 916[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active
+        â†³  0% â€” âœ“ 0 / âœ— 6640[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active[0m
+
+     â–ˆ Endpoint: observation-sources-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted
+        â†³  6% â€” âœ“ 461 / âœ— 6129[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted
+        â†³  86% â€” âœ“ 5702 / âœ— 888[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 6590[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted[0m
+
+     â–ˆ Endpoint: departments (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments
+        â†³  6% â€” âœ“ 431 / âœ— 6025[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments
+        â†³  86% â€” âœ“ 5553 / âœ— 903[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments
+        â†³  0% â€” âœ“ 0 / âœ— 6456[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments[0m
+
+     â–ˆ Endpoint: observation-sources-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active
+        â†³  6% â€” âœ“ 428 / âœ— 6063[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active
+        â†³  86% â€” âœ“ 5631 / âœ— 860[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active
+        â†³  0% â€” âœ“ 0 / âœ— 6491[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active[0m
+
+     â–ˆ Endpoint: designations-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted
+        â†³  6% â€” âœ“ 42 / âœ— 614[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted
+        â†³  86% â€” âœ“ 569 / âœ— 87[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 656[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted[0m
+
+     â–ˆ Endpoint: incident-sub-types-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted
+        â†³  6% â€” âœ“ 420 / âœ— 6149[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted
+        â†³  86% â€” âœ“ 5702 / âœ— 867[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 6569[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted[0m
+
+     â–ˆ Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so
+        â†³  5% â€” âœ“ 379 / âœ— 6101[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so
+        â†³  85% â€” âœ“ 5550 / âœ— 930[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so
+        â†³  0% â€” âœ“ 0 / âœ— 6480[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so[0m
+
+     â–ˆ Endpoint: sites-hierarchy-tree (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree
+        â†³  0% â€” âœ“ 0 / âœ— 645[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree
+        â†³  85% â€” âœ“ 554 / âœ— 91[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree
+        â†³  0% â€” âœ“ 0 / âœ— 645[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree[0m
+
+     â–ˆ Endpoint: incident-types-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted
+        â†³  6% â€” âœ“ 454 / âœ— 6171[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted
+        â†³  86% â€” âœ“ 5707 / âœ— 918[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 6625[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted[0m
+
+     â–ˆ Endpoint: incident-sub-types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types
+        â†³  7% â€” âœ“ 458 / âœ— 5935[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types
+        â†³  86% â€” âœ“ 5521 / âœ— 872[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types
+        â†³  0% â€” âœ“ 0 / âœ— 6393[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types[0m
+
+     â–ˆ Endpoint: departments-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted
+        â†³  6% â€” âœ“ 425 / âœ— 6323[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted
+        â†³  87% â€” âœ“ 5895 / âœ— 853[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 6748[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted[0m
+
+     â–ˆ Endpoint: incidents (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents
+        â†³  5% â€” âœ“ 365 / âœ— 6232[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents
+        â†³  87% â€” âœ“ 5743 / âœ— 854[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents
+        â†³  0% â€” âœ“ 0 / âœ— 6597[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents[0m
+
+     â–ˆ Endpoint: tenant-hierarchy-config-levels (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels
+        â†³  7% â€” âœ“ 46 / âœ— 590[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels
+        â†³  85% â€” âœ“ 542 / âœ— 94[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels
+        â†³  0% â€” âœ“ 0 / âœ— 636[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels[0m
+
+     â–ˆ Endpoint: observation-types-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active
+        â†³  6% â€” âœ“ 442 / âœ— 6212[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active
+        â†³  86% â€” âœ“ 5750 / âœ— 904[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active
+        â†³  0% â€” âœ“ 0 / âœ— 6654[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active[0m
+
+     â–ˆ Endpoint: ntrs (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs
+        â†³  6% â€” âœ“ 42 / âœ— 623[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs
+        â†³  83% â€” âœ“ 558 / âœ— 107[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs
+        â†³  0% â€” âœ“ 0 / âœ— 665[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs[0m
+
+     â–ˆ Endpoint: severity-levels-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active
+        â†³  6% â€” âœ“ 46 / âœ— 633[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active
+        â†³  86% â€” âœ“ 585 / âœ— 94[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active
+        â†³  0% â€” âœ“ 0 / âœ— 679[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active[0m
+
+     â–ˆ Endpoint: hazards (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards
+        â†³  7% â€” âœ“ 52 / âœ— 606[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards
+        â†³  87% â€” âœ“ 577 / âœ— 81[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards
+        â†³  0% â€” âœ“ 0 / âœ— 658[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards[0m
+
+     â–ˆ Endpoint: tenant-hierarchy-config-enabled-types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types
+        â†³  8% â€” âœ“ 59 / âœ— 627[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types
+        â†³  83% â€” âœ“ 575 / âœ— 111[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types
+        â†³  0% â€” âœ“ 0 / âœ— 686[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types[0m
+
+     â–ˆ Endpoint: sites-dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown
+        â†³  6% â€” âœ“ 43 / âœ— 624[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown
+        â†³  85% â€” âœ“ 571 / âœ— 96[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown
+        â†³  0% â€” âœ“ 0 / âœ— 667[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown[0m
+
+     â–ˆ Endpoint: permissions-resources (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources
+        â†³  6% â€” âœ“ 44 / âœ— 597[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources
+        â†³  86% â€” âœ“ 556 / âœ— 85[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources
+        â†³  0% â€” âœ“ 0 / âœ— 641[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources[0m
+
+     â–ˆ Endpoint: users-dropdown-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active
+        â†³  8% â€” âœ“ 54 / âœ— 568[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active
+        â†³  84% â€” âœ“ 523 / âœ— 99[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active
+        â†³  0% â€” âœ“ 0 / âœ— 622[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active[0m
+
+     â–ˆ Endpoint: severity-levels-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted
+        â†³  7% â€” âœ“ 47 / âœ— 591[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted
+        â†³  84% â€” âœ“ 538 / âœ— 100[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 638[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted[0m
+
+     â–ˆ Endpoint: health (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health
+        â†³  8% â€” âœ“ 51 / âœ— 559[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health
+        â†³  84% â€” âœ“ 513 / âœ— 97[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health
+        â†³  0% â€” âœ“ 0 / âœ— 610[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health[0m
+
+     â–ˆ Endpoint: permissions-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted
+        â†³  6% â€” âœ“ 44 / âœ— 615[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted
+        â†³  85% â€” âœ“ 562 / âœ— 97[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 659[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted[0m
+
+     â–ˆ Endpoint: hazard-types-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active
+        â†³  7% â€” âœ“ 49 / âœ— 606[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active
+        â†³  84% â€” âœ“ 556 / âœ— 99[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active
+        â†³  0% â€” âœ“ 0 / âœ— 655[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active[0m
+
+     â–ˆ Endpoint: roles-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted
+        â†³  7% â€” âœ“ 48 / âœ— 603[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted
+        â†³  86% â€” âœ“ 564 / âœ— 87[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 651[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted[0m
+
+     â–ˆ Endpoint: hazard-types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types
+        â†³  5% â€” âœ“ 34 / âœ— 602[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types
+        â†³  88% â€” âœ“ 563 / âœ— 73[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types
+        â†³  0% â€” âœ“ 0 / âœ— 636[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types[0m
+
+     â–ˆ Endpoint: contractors-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted
+        â†³  6% â€” âœ“ 39 / âœ— 584[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted
+        â†³  85% â€” âœ“ 533 / âœ— 90[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 623[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted[0m
+
+     â–ˆ Endpoint: tenant-hierarchy-config-root-level (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level
+        â†³  7% â€” âœ“ 48 / âœ— 590[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level
+        â†³  86% â€” âœ“ 551 / âœ— 87[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level
+        â†³  0% â€” âœ“ 0 / âœ— 638[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level[0m
+
+     â–ˆ Endpoint: roles-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active
+        â†³  7% â€” âœ“ 55 / âœ— 634[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active
+        â†³  84% â€” âœ“ 582 / âœ— 107[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active
+        â†³  0% â€” âœ“ 0 / âœ— 689[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active[0m
+
+     â–ˆ Endpoint: users-deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted
+        â†³  8% â€” âœ“ 53 / âœ— 590[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted
+        â†³  85% â€” âœ“ 551 / âœ— 92[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted
+        â†³  0% â€” âœ“ 0 / âœ— 643[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted[0m
+
+     â–ˆ Endpoint: roles-dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown
+        â†³  5% â€” âœ“ 41 / âœ— 653[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown
+        â†³  86% â€” âœ“ 602 / âœ— 92[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown
+        â†³  0% â€” âœ“ 0 / âœ— 694[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown[0m
+
+     â–ˆ Endpoint: hazards-all (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all
+        â†³  6% â€” âœ“ 48 / âœ— 639[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all
+        â†³  85% â€” âœ“ 586 / âœ— 101[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all
+        â†³  0% â€” âœ“ 0 / âœ— 687[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all[0m
+
+     â–ˆ Endpoint: designations (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations
+        â†³  6% â€” âœ“ 41 / âœ— 589[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations
+        â†³  87% â€” âœ“ 550 / âœ— 80[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations
+        â†³  0% â€” âœ“ 0 / âœ— 630[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations[0m
+
+     â–ˆ Endpoint: users-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active
+        â†³  5% â€” âœ“ 35 / âœ— 606[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active
+        â†³  87% â€” âœ“ 558 / âœ— 83[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active
+        â†³  0% â€” âœ“ 0 / âœ— 641[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active[0m
+
+     â–ˆ Endpoint: severity-levels (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels
+        â†³  5% â€” âœ“ 38 / âœ— 636[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels
+        â†³  85% â€” âœ“ 574 / âœ— 100[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels
+        â†³  0% â€” âœ“ 0 / âœ— 674[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels[0m
+
+     â–ˆ Endpoint: permissions (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions
+        â†³  7% â€” âœ“ 52 / âœ— 613[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions
+        â†³  85% â€” âœ“ 570 / âœ— 95[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions
+        â†³  0% â€” âœ“ 0 / âœ— 665[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions[0m
+
+     â–ˆ Endpoint: contractors-dropdown-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active
+        â†³  7% â€” âœ“ 51 / âœ— 656[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active
+        â†³  87% â€” âœ“ 621 / âœ— 86[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active
+        â†³  0% â€” âœ“ 0 / âœ— 707[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active[0m
+
+     â–ˆ Endpoint: contractors (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors
+        â†³  7% â€” âœ“ 48 / âœ— 615[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors
+        â†³  86% â€” âœ“ 573 / âœ— 90[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors
+        â†³  0% â€” âœ“ 0 / âœ— 663[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors[0m
+
+     â–ˆ Endpoint: hazards-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active
+        â†³  6% â€” âœ“ 42 / âœ— 595[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active
+        â†³  87% â€” âœ“ 558 / âœ— 79[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active
+        â†³  0% â€” âœ“ 0 / âœ— 637[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active[0m
+
+     â–ˆ Endpoint: designations-dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown
+        â†³  7% â€” âœ“ 50 / âœ— 609[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown
+        â†³  85% â€” âœ“ 562 / âœ— 97[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown
+        â†³  0% â€” âœ“ 0 / âœ— 659[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown[0m
+
+     â–ˆ Endpoint: hazard-types-all (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all
+        â†³  6% â€” âœ“ 44 / âœ— 588[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all
+        â†³  85% â€” âœ“ 543 / âœ— 89[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all
+        â†³  0% â€” âœ“ 0 / âœ— 632[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all[0m
+
+     â–ˆ Endpoint: roles (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles
+        â†³  7% â€” âœ“ 50 / âœ— 640[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles
+        â†³  84% â€” âœ“ 586 / âœ— 104[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles
+        â†³  0% â€” âœ“ 0 / âœ— 690[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles[0m
+
+     â–ˆ Endpoint: designations-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active
+        â†³  7% â€” âœ“ 48 / âœ— 629[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active
+        â†³  86% â€” âœ“ 584 / âœ— 93[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active
+        â†³  0% â€” âœ“ 0 / âœ— 677[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active[0m
+
+     â–ˆ Endpoint: contractors-active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active
+        â†³  7% â€” âœ“ 48 / âœ— 599[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active
+        â†³  85% â€” âœ“ 555 / âœ— 92[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active
+        â†³  0% â€” âœ“ 0 / âœ— 647[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active[0m
+
+     â–ˆ Endpoint: permissions-dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown
+        â†³  6% â€” âœ“ 42 / âœ— 587[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown
+        â†³  85% â€” âœ“ 540 / âœ— 89[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown
+        â†³  0% â€” âœ“ 0 / âœ— 629[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown[0m
+
+     â–ˆ Endpoint: tenant-hierarchy-config (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config
+        â†³  5% â€” âœ“ 35 / âœ— 568[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config
+        â†³  88% â€” âœ“ 533 / âœ— 70[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config
+        â†³  0% â€” âœ“ 0 / âœ— 603[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config[0m
+
+     â–ˆ Endpoint: sites (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites)
+
+[31m       âœ— Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites
+        â†³  3% â€” âœ“ 25 / âœ— 634[0m
+[31m       âœ— Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites
+        â†³  87% â€” âœ“ 576 / âœ— 83[0m
+[31m       âœ— Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites
+        â†³  0% â€” âœ“ 0 / âœ— 659[0m
+[32m       âœ“ Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites[0m
+
+   [31mâœ—[0m checks[2m.................................................:[0m [36m48.20%[0m [36;2mâœ“ 287006[0m   [36;2mâœ— 308430[0m
+     cleanup_time[2m...........................................:[0m avg=[36m2[0m           min=[36m2[0m        med=[36m2[0m      p(95)=[36m2[0m            p(99)=[36m2[0m           
+     data_received[2m..........................................:[0m [36m163 MB[0m [36;2m265 kB/s[0m
+     data_sent[2m..............................................:[0m [36m26 MB[0m  [36;2m42 kB/s[0m
+   [31mâœ—[0m delayed_requests[2m.......................................:[0m [36m20212[0m  [36;2m32.85573/s[0m
+     errors_client[2m..........................................:[0m [36m473[0m    [36;2m0.768888/s[0m
+     errors_client_departments_main_departments[2m.............:[0m [36m449[0m    [36;2m0.729874/s[0m
+     errors_client_so[2m.......................................:[0m [36m11[0m     [36;2m0.017881/s[0m
+     errors_client_soc[2m......................................:[0m [36m13[0m     [36;2m0.021132/s[0m
+     errors_server[2m..........................................:[0m [36m192[0m    [36;2m0.312107/s[0m
+     errors_server_contractors[2m..............................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_contractors_active[2m.......................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_contractors_deleted[2m......................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_departments[2m..............................:[0m [36m7[0m      [36;2m0.011379/s[0m
+     errors_server_departments_active[2m.......................:[0m [36m3[0m      [36;2m0.004877/s[0m
+     errors_server_departments_deleted[2m......................:[0m [36m9[0m      [36;2m0.01463/s[0m
+     errors_server_hazard_types[2m.............................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_hazard_types_active[2m......................:[0m [36m3[0m      [36;2m0.004877/s[0m
+     errors_server_hazard_types_all[2m.........................:[0m [36m2[0m      [36;2m0.003251/s[0m
+     errors_server_incident_sub_types[2m.......................:[0m [36m7[0m      [36;2m0.011379/s[0m
+     errors_server_incident_sub_types_deleted[2m...............:[0m [36m6[0m      [36;2m0.009753/s[0m
+     errors_server_incident_types[2m...........................:[0m [36m2[0m      [36;2m0.003251/s[0m
+     errors_server_incident_types_deleted[2m...................:[0m [36m7[0m      [36;2m0.011379/s[0m
+     errors_server_incidents[2m................................:[0m [36m13[0m     [36;2m0.021132/s[0m
+     errors_server_observation_sources[2m......................:[0m [36m8[0m      [36;2m0.013004/s[0m
+     errors_server_observation_sources_active[2m...............:[0m [36m9[0m      [36;2m0.01463/s[0m
+     errors_server_observation_sources_deleted[2m..............:[0m [36m7[0m      [36;2m0.011379/s[0m
+     errors_server_observation_sources_dropdown_active[2m......:[0m [36m9[0m      [36;2m0.01463/s[0m
+     errors_server_observation_types[2m........................:[0m [36m8[0m      [36;2m0.013004/s[0m
+     errors_server_observation_types_active[2m.................:[0m [36m11[0m     [36;2m0.017881/s[0m
+     errors_server_observation_types_deleted[2m................:[0m [36m7[0m      [36;2m0.011379/s[0m
+     errors_server_observation_types_dropdown_active[2m........:[0m [36m5[0m      [36;2m0.008128/s[0m
+     errors_server_permissions[2m..............................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_permissions_dropdown[2m.....................:[0m [36m3[0m      [36;2m0.004877/s[0m
+     errors_server_roles[2m....................................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_roles_active[2m.............................:[0m [36m1[0m      [36;2m0.001626/s[0m
+     errors_server_roles_deleted[2m............................:[0m [36m2[0m      [36;2m0.003251/s[0m
+     errors_server_roles_dropdown[2m...........................:[0m [36m2[0m      [36;2m0.003251/s[0m
+     errors_server_severity_levels[2m..........................:[0m [36m4[0m      [36;2m0.006502/s[0m
+     errors_server_sites_hierarchy_tree[2m.....................:[0m [36m51[0m     [36;2m0.082903/s[0m
+   [32mâœ“[0m failures_contractors[2m...................................:[0m [36m0.15%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 662[0m   
+   [32mâœ“[0m failures_contractors_active[2m............................:[0m [36m0.15%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 646[0m   
+   [32mâœ“[0m failures_contractors_deleted[2m...........................:[0m [36m0.16%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 622[0m   
+   [32mâœ“[0m failures_contractors_dropdown_active[2m...................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 707[0m   
+   [32mâœ“[0m failures_departments[2m...................................:[0m [36m0.10%[0m  [36;2mâœ“ 7[0m        [36;2mâœ— 6449[0m  
+   [32mâœ“[0m failures_departments_active[2m............................:[0m [36m0.04%[0m  [36;2mâœ“ 3[0m        [36;2mâœ— 6551[0m  
+   [32mâœ“[0m failures_departments_deleted[2m...........................:[0m [36m0.13%[0m  [36;2mâœ“ 9[0m        [36;2mâœ— 6739[0m  
+   [32mâœ“[0m failures_departments_main_departments[2m..................:[0m [36m7.00%[0m  [36;2mâœ“ 449[0m      [36;2mâœ— 5959[0m  
+   [32mâœ“[0m failures_designations[2m..................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 630[0m   
+   [32mâœ“[0m failures_designations_active[2m...........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 677[0m   
+   [32mâœ“[0m failures_designations_deleted[2m..........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 656[0m   
+   [32mâœ“[0m failures_designations_dropdown[2m.........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 659[0m   
+   [32mâœ“[0m failures_hazard_types[2m..................................:[0m [36m0.15%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 635[0m   
+   [32mâœ“[0m failures_hazard_types_active[2m...........................:[0m [36m0.45%[0m  [36;2mâœ“ 3[0m        [36;2mâœ— 652[0m   
+   [32mâœ“[0m failures_hazard_types_all[2m..............................:[0m [36m0.31%[0m  [36;2mâœ“ 2[0m        [36;2mâœ— 630[0m   
+   [32mâœ“[0m failures_hazards[2m.......................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 658[0m   
+   [32mâœ“[0m failures_hazards_active[2m................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 637[0m   
+   [32mâœ“[0m failures_hazards_all[2m...................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 687[0m   
+   [32mâœ“[0m failures_health[2m........................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 610[0m   
+   [32mâœ“[0m failures_incident_sub_types[2m............................:[0m [36m0.10%[0m  [36;2mâœ“ 7[0m        [36;2mâœ— 6386[0m  
+   [32mâœ“[0m failures_incident_sub_types_deleted[2m....................:[0m [36m0.09%[0m  [36;2mâœ“ 6[0m        [36;2mâœ— 6563[0m  
+   [32mâœ“[0m failures_incident_types[2m................................:[0m [36m0.03%[0m  [36;2mâœ“ 2[0m        [36;2mâœ— 6551[0m  
+   [32mâœ“[0m failures_incident_types_deleted[2m........................:[0m [36m0.10%[0m  [36;2mâœ“ 7[0m        [36;2mâœ— 6618[0m  
+   [32mâœ“[0m failures_incidents[2m.....................................:[0m [36m0.19%[0m  [36;2mâœ“ 13[0m       [36;2mâœ— 6584[0m  
+   [32mâœ“[0m failures_ntrs[2m..........................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 665[0m   
+   [32mâœ“[0m failures_observation_sources[2m...........................:[0m [36m0.12%[0m  [36;2mâœ“ 8[0m        [36;2mâœ— 6391[0m  
+   [32mâœ“[0m failures_observation_sources_active[2m....................:[0m [36m0.13%[0m  [36;2mâœ“ 9[0m        [36;2mâœ— 6482[0m  
+   [32mâœ“[0m failures_observation_sources_deleted[2m...................:[0m [36m0.10%[0m  [36;2mâœ“ 7[0m        [36;2mâœ— 6583[0m  
+   [32mâœ“[0m failures_observation_sources_dropdown_active[2m...........:[0m [36m0.13%[0m  [36;2mâœ“ 9[0m        [36;2mâœ— 6628[0m  
+   [32mâœ“[0m failures_observation_types[2m.............................:[0m [36m0.12%[0m  [36;2mâœ“ 8[0m        [36;2mâœ— 6596[0m  
+   [32mâœ“[0m failures_observation_types_active[2m......................:[0m [36m0.16%[0m  [36;2mâœ“ 11[0m       [36;2mâœ— 6643[0m  
+   [32mâœ“[0m failures_observation_types_deleted[2m.....................:[0m [36m0.10%[0m  [36;2mâœ“ 7[0m        [36;2mâœ— 6698[0m  
+   [32mâœ“[0m failures_observation_types_dropdown_active[2m.............:[0m [36m0.07%[0m  [36;2mâœ“ 5[0m        [36;2mâœ— 6635[0m  
+   [32mâœ“[0m failures_permissions[2m...................................:[0m [36m0.15%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 664[0m   
+   [32mâœ“[0m failures_permissions_deleted[2m...........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 659[0m   
+   [32mâœ“[0m failures_permissions_dropdown[2m..........................:[0m [36m0.47%[0m  [36;2mâœ“ 3[0m        [36;2mâœ— 626[0m   
+   [32mâœ“[0m failures_permissions_resources[2m.........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 641[0m   
+   [32mâœ“[0m failures_roles[2m.........................................:[0m [36m0.14%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 689[0m   
+   [32mâœ“[0m failures_roles_active[2m..................................:[0m [36m0.14%[0m  [36;2mâœ“ 1[0m        [36;2mâœ— 688[0m   
+   [32mâœ“[0m failures_roles_deleted[2m.................................:[0m [36m0.30%[0m  [36;2mâœ“ 2[0m        [36;2mâœ— 649[0m   
+   [32mâœ“[0m failures_roles_dropdown[2m................................:[0m [36m0.28%[0m  [36;2mâœ“ 2[0m        [36;2mâœ— 692[0m   
+   [32mâœ“[0m failures_severity_levels[2m...............................:[0m [36m0.59%[0m  [36;2mâœ“ 4[0m        [36;2mâœ— 670[0m   
+   [32mâœ“[0m failures_severity_levels_active[2m........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 679[0m   
+   [32mâœ“[0m failures_severity_levels_deleted[2m.......................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 638[0m   
+   [32mâœ“[0m failures_sites[2m.........................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 659[0m   
+   [32mâœ“[0m failures_sites_dropdown[2m................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 667[0m   
+   [32mâœ“[0m failures_sites_hierarchy_tree[2m..........................:[0m [36m7.90%[0m  [36;2mâœ“ 51[0m       [36;2mâœ— 594[0m   
+   [32mâœ“[0m failures_so[2m............................................:[0m [36m0.16%[0m  [36;2mâœ“ 11[0m       [36;2mâœ— 6469[0m  
+   [32mâœ“[0m failures_soc[2m...........................................:[0m [36m0.19%[0m  [36;2mâœ“ 13[0m       [36;2mâœ— 6552[0m  
+   [32mâœ“[0m failures_tenant_hierarchy_config[2m.......................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 603[0m   
+   [32mâœ“[0m failures_tenant_hierarchy_config_enabled_types[2m.........:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 686[0m   
+   [32mâœ“[0m failures_tenant_hierarchy_config_levels[2m................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 636[0m   
+   [32mâœ“[0m failures_tenant_hierarchy_config_root_level[2m............:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 638[0m   
+   [32mâœ“[0m failures_users_active[2m..................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 641[0m   
+   [32mâœ“[0m failures_users_deleted[2m.................................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 643[0m   
+   [32mâœ“[0m failures_users_dropdown_active[2m.........................:[0m [36m0.00%[0m  [36;2mâœ“ 0[0m        [36;2mâœ— 622[0m   
+     group_duration[2m.........................................:[0m avg=[36m18.44s[0m      min=[36m221.97ms[0m med=[36m15.66s[0m p(95)=[36m34.97s[0m       p(99)=[36m39.41s[0m      
+     http_req_blocked[2m.......................................:[0m avg=[36m178.53ms[0m    min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m712.2ms[0m      p(99)=[36m5.04s[0m       
+     http_req_connecting[2m....................................:[0m avg=[36m124.57ms[0m    min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m211.97ms[0m     p(99)=[36m4.34s[0m       
+   [31mâœ—[0m http_req_duration[2m......................................:[0m avg=[36m1.57s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.15s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:contractors_active }[2m......................:[0m avg=[36m1.59s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.84s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:contractors_deleted }[2m.....................:[0m avg=[36m1.71s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.24s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:contractors_dropdown_active }[2m.............:[0m avg=[36m1.4s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m12.69s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:contractors }[2m.............................:[0m avg=[36m1.49s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.2s[0m        p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:departments_active }[2m......................:[0m avg=[36m1.46s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.55s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:departments_deleted }[2m.....................:[0m avg=[36m1.46s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.96s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:departments_main_departments }[2m............:[0m avg=[36m1.39s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.92s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:departments }[2m.............................:[0m avg=[36m1.6s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.17s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:designations_active }[2m.....................:[0m avg=[36m1.48s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.77s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:designations_deleted }[2m....................:[0m avg=[36m1.5s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.23s[0m       p(99)=[36m15.01s[0m      
+     [31mâœ—[0m { endpoint:designations_dropdown }[2m...................:[0m avg=[36m1.69s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.14s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:designations }[2m............................:[0m avg=[36m1.49s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14s[0m          p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:hazard_types_active }[2m.....................:[0m avg=[36m1.77s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.3s[0m        p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:hazard_types_all }[2m........................:[0m avg=[36m1.54s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.28s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:hazard_types }[2m............................:[0m avg=[36m1.22s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.28s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:hazards_active }[2m..........................:[0m avg=[36m1.38s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.44s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:hazards_all }[2m.............................:[0m avg=[36m1.72s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.33s[0m       p(99)=[36m15.01s[0m      
+     [31mâœ—[0m { endpoint:hazards }[2m.................................:[0m avg=[36m1.34s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.25s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:health }[2m..................................:[0m avg=[36m1.81s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.28s[0m       p(99)=[36m15.01s[0m      
+     [31mâœ—[0m { endpoint:incident_sub_types_deleted }[2m..............:[0m avg=[36m1.55s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.16s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:incident_sub_types }[2m......................:[0m avg=[36m1.52s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.83s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:incident_types_deleted }[2m..................:[0m avg=[36m1.61s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.14s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:incident_types }[2m..........................:[0m avg=[36m1.53s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.07s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:incidents }[2m...............................:[0m avg=[36m1.56s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.18s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:ntrs }[2m....................................:[0m avg=[36m2.03s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.37s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_sources_active }[2m..............:[0m avg=[36m1.5s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.05s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_sources_deleted }[2m.............:[0m avg=[36m1.51s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.03s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_sources_dropdown_active }[2m.....:[0m avg=[36m1.62s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.19s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_sources }[2m.....................:[0m avg=[36m1.53s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.1s[0m        p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_types_active }[2m................:[0m avg=[36m1.57s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.17s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_types_deleted }[2m...............:[0m avg=[36m1.6s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.23s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_types_dropdown_active }[2m.......:[0m avg=[36m1.58s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.09s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:observation_types }[2m.......................:[0m avg=[36m1.62s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.16s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:permissions_deleted }[2m.....................:[0m avg=[36m1.61s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.83s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:permissions_dropdown }[2m....................:[0m avg=[36m1.6s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.24s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:permissions_resources }[2m...................:[0m avg=[36m1.57s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.25s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:permissions }[2m.............................:[0m avg=[36m1.69s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.08s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:roles_active }[2m............................:[0m avg=[36m1.79s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.29s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:roles_deleted }[2m...........................:[0m avg=[36m1.47s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.36s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:roles_dropdown }[2m..........................:[0m avg=[36m1.59s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.17s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:roles }[2m...................................:[0m avg=[36m1.7s[0m        min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.07s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:severity_levels_active }[2m..................:[0m avg=[36m1.57s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.06s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:severity_levels_deleted }[2m.................:[0m avg=[36m1.78s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.2s[0m        p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:severity_levels }[2m.........................:[0m avg=[36m1.78s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.32s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:sites_dropdown }[2m..........................:[0m avg=[36m1.68s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.32s[0m       p(99)=[36m15.01s[0m      
+     [31mâœ—[0m { endpoint:sites_hierarchy_tree }[2m....................:[0m avg=[36m1.52s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.94s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:sites }[2m...................................:[0m avg=[36m1.54s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.29s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:soc }[2m.....................................:[0m avg=[36m1.66s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.26s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:so }[2m......................................:[0m avg=[36m1.74s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.31s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:tenant_hierarchy_config_enabled_types }[2m...:[0m avg=[36m1.94s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.3s[0m        p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:tenant_hierarchy_config_levels }[2m..........:[0m avg=[36m1.71s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.05s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:tenant_hierarchy_config_root_level }[2m......:[0m avg=[36m1.49s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.3s[0m        p(99)=[36m15.01s[0m      
+     [31mâœ—[0m { endpoint:tenant_hierarchy_config }[2m.................:[0m avg=[36m1.33s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.15s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:users_active }[2m............................:[0m avg=[36m1.53s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.19s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:users_deleted }[2m...........................:[0m avg=[36m1.51s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m13.74s[0m       p(99)=[36m15s[0m         
+     [31mâœ—[0m { endpoint:users_dropdown_active }[2m...................:[0m avg=[36m1.82s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.2s[0m        p(99)=[36m15s[0m         
+       { expected_response:true }[2m...........................:[0m avg=[36m8.44s[0m       min=[36m218.43ms[0m med=[36m8.86s[0m  p(95)=[36m13.73s[0m       p(99)=[36m14.38s[0m      
+   [31mâœ—[0m http_req_failed[2m........................................:[0m [36m93.61%[0m [36;2mâœ“ 139359[0m   [36;2mâœ— 9500[0m  
+     http_req_receiving[2m.....................................:[0m avg=[36m1.84ms[0m      min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m83.94Âµs[0m     p(99)=[36m2.36ms[0m      
+     http_req_sending[2m.......................................:[0m avg=[36m373.33Âµs[0m   min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m122.52Âµs[0m    p(99)=[36m8.06ms[0m      
+     http_req_tls_handshaking[2m...............................:[0m avg=[36m38.87ms[0m     min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m454.14ms[0m     p(99)=[36m643.71ms[0m    
+     http_req_waiting[2m.......................................:[0m avg=[36m1.56s[0m       min=[36m0s[0m       med=[36m0s[0m     p(95)=[36m14.14s[0m       p(99)=[36m15s[0m         
+     http_reqs[2m..............................................:[0m [36m148859[0m [36;2m241.978582/s[0m
+   [31mâœ—[0m iteration_duration[2m.....................................:[0m avg=[36m18.66s[0m      min=[36m341.38ms[0m med=[36m15.87s[0m p(95)=[36m35.21s[0m       p(99)=[36m39.66s[0m      
+     iterations[2m.............................................:[0m [36m148859[0m [36;2m241.978582/s[0m
+     requests_contractors[2m...................................:[0m [36m663[0m    [36;2m1.077743/s[0m
+     requests_contractors_active[2m............................:[0m [36m647[0m    [36;2m1.051734/s[0m
+     requests_contractors_deleted[2m...........................:[0m [36m623[0m    [36;2m1.012721/s[0m
+     requests_contractors_dropdown_active[2m...................:[0m [36m707[0m    [36;2m1.149268/s[0m
+     requests_departments[2m...................................:[0m [36m6456[0m   [36;2m10.494587/s[0m
+     requests_departments_active[2m............................:[0m [36m6554[0m   [36;2m10.653891/s[0m
+     requests_departments_deleted[2m...........................:[0m [36m6748[0m   [36;2m10.969249/s[0m
+     requests_departments_main_departments[2m..................:[0m [36m6408[0m   [36;2m10.41656/s[0m
+     requests_designations[2m..................................:[0m [36m630[0m    [36;2m1.0241/s[0m
+     requests_designations_active[2m...........................:[0m [36m677[0m    [36;2m1.100501/s[0m
+     requests_designations_deleted[2m..........................:[0m [36m656[0m    [36;2m1.066364/s[0m
+     requests_designations_dropdown[2m.........................:[0m [36m659[0m    [36;2m1.071241/s[0m
+     requests_hazard_types[2m..................................:[0m [36m636[0m    [36;2m1.033853/s[0m
+     requests_hazard_types_active[2m...........................:[0m [36m655[0m    [36;2m1.064739/s[0m
+     requests_hazard_types_all[2m..............................:[0m [36m632[0m    [36;2m1.027351/s[0m
+     requests_hazards[2m.......................................:[0m [36m658[0m    [36;2m1.069616/s[0m
+     requests_hazards_active[2m................................:[0m [36m637[0m    [36;2m1.035479/s[0m
+     requests_hazards_all[2m...................................:[0m [36m687[0m    [36;2m1.116757/s[0m
+     requests_health[2m........................................:[0m [36m610[0m    [36;2m0.991589/s[0m
+     requests_incident_sub_types[2m............................:[0m [36m6393[0m   [36;2m10.392177/s[0m
+     requests_incident_sub_types_deleted[2m....................:[0m [36m6569[0m   [36;2m10.678275/s[0m
+     requests_incident_types[2m................................:[0m [36m6553[0m   [36;2m10.652266/s[0m
+     requests_incident_types_deleted[2m........................:[0m [36m6625[0m   [36;2m10.769306/s[0m
+     requests_incidents[2m.....................................:[0m [36m6597[0m   [36;2m10.72379/s[0m
+     requests_ntrs[2m..........................................:[0m [36m665[0m    [36;2m1.080994/s[0m
+     requests_observation_sources[2m...........................:[0m [36m6399[0m   [36;2m10.40193/s[0m
+     requests_observation_sources_active[2m....................:[0m [36m6491[0m   [36;2m10.551481/s[0m
+     requests_observation_sources_deleted[2m...................:[0m [36m6590[0m   [36;2m10.712411/s[0m
+     requests_observation_sources_dropdown_active[2m...........:[0m [36m6637[0m   [36;2m10.788813/s[0m
+     requests_observation_types[2m.............................:[0m [36m6604[0m   [36;2m10.735169/s[0m
+     requests_observation_types_active[2m......................:[0m [36m6654[0m   [36;2m10.816447/s[0m
+     requests_observation_types_deleted[2m.....................:[0m [36m6705[0m   [36;2m10.89935/s[0m
+     requests_observation_types_dropdown_active[2m.............:[0m [36m6640[0m   [36;2m10.793689/s[0m
+     requests_permissions[2m...................................:[0m [36m665[0m    [36;2m1.080994/s[0m
+     requests_permissions_deleted[2m...........................:[0m [36m659[0m    [36;2m1.071241/s[0m
+     requests_permissions_dropdown[2m..........................:[0m [36m629[0m    [36;2m1.022474/s[0m
+     requests_permissions_resources[2m.........................:[0m [36m641[0m    [36;2m1.041981/s[0m
+     requests_roles[2m.........................................:[0m [36m690[0m    [36;2m1.121633/s[0m
+     requests_roles_active[2m..................................:[0m [36m689[0m    [36;2m1.120008/s[0m
+     requests_roles_deleted[2m.................................:[0m [36m651[0m    [36;2m1.058237/s[0m
+     requests_roles_dropdown[2m................................:[0m [36m694[0m    [36;2m1.128136/s[0m
+     requests_severity_levels[2m...............................:[0m [36m674[0m    [36;2m1.095624/s[0m
+     requests_severity_levels_active[2m........................:[0m [36m679[0m    [36;2m1.103752/s[0m
+     requests_severity_levels_deleted[2m.......................:[0m [36m638[0m    [36;2m1.037104/s[0m
+     requests_sites[2m.........................................:[0m [36m659[0m    [36;2m1.071241/s[0m
+     requests_sites_dropdown[2m................................:[0m [36m667[0m    [36;2m1.084246/s[0m
+     requests_sites_hierarchy_tree[2m..........................:[0m [36m645[0m    [36;2m1.048483/s[0m
+     requests_so[2m............................................:[0m [36m6480[0m   [36;2m10.5336/s[0m
+     requests_soc[2m...........................................:[0m [36m6565[0m   [36;2m10.671773/s[0m
+     requests_tenant_hierarchy_config[2m.......................:[0m [36m603[0m    [36;2m0.98021/s[0m
+     requests_tenant_hierarchy_config_enabled_types[2m.........:[0m [36m686[0m    [36;2m1.115131/s[0m
+     requests_tenant_hierarchy_config_levels[2m................:[0m [36m636[0m    [36;2m1.033853/s[0m
+     requests_tenant_hierarchy_config_root_level[2m............:[0m [36m638[0m    [36;2m1.037104/s[0m
+     requests_users_active[2m..................................:[0m [36m641[0m    [36;2m1.041981/s[0m
+     requests_users_deleted[2m.................................:[0m [36m643[0m    [36;2m1.045232/s[0m
+     requests_users_dropdown_active[2m.........................:[0m [36m622[0m    [36;2m1.011096/s[0m
+     response_time_contractors[2m..............................:[0m avg=[36m1499.880179[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14207.578933[0m p(99)=[36m15006.07281[0m 
+     response_time_contractors_active[2m.......................:[0m avg=[36m1596.47674[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m13841.161825[0m p(99)=[36m15003.743627[0m
+     response_time_contractors_deleted[2m......................:[0m avg=[36m1712.548618[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14242.37703[0m  p(99)=[36m15005.398179[0m
+     response_time_contractors_dropdown_active[2m..............:[0m avg=[36m1407.537691[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m12692.079094[0m p(99)=[36m15002.8212[0m  
+     response_time_departments[2m..............................:[0m avg=[36m1608.105292[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14176.444832[0m p(99)=[36m15004.073644[0m
+     response_time_departments_active[2m.......................:[0m avg=[36m1468.953523[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13558.442662[0m p(99)=[36m15002.785185[0m
+     response_time_departments_deleted[2m......................:[0m avg=[36m1462.219261[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13960.185304[0m p(99)=[36m15005.814574[0m
+     response_time_departments_main_departments[2m.............:[0m avg=[36m1390.379524[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13926.701323[0m p(99)=[36m15005.703478[0m
+     response_time_designations[2m.............................:[0m avg=[36m1498.495151[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14004.343378[0m p(99)=[36m15001.550083[0m
+     response_time_designations_active[2m......................:[0m avg=[36m1480.589296[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13773.744576[0m p(99)=[36m15003.466168[0m
+     response_time_designations_deleted[2m.....................:[0m avg=[36m1509.852427[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14233.29143[0m  p(99)=[36m15010.97498[0m 
+     response_time_designations_dropdown[2m....................:[0m avg=[36m1690.976114[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14145.425463[0m p(99)=[36m15002.28827[0m 
+     response_time_hazard_types[2m.............................:[0m avg=[36m1223.14063[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m13289.834742[0m p(99)=[36m15001.395224[0m
+     response_time_hazard_types_active[2m......................:[0m avg=[36m1774.977492[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14304.677239[0m p(99)=[36m15006.815181[0m
+     response_time_hazard_types_all[2m.........................:[0m avg=[36m1544.758793[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13287.084046[0m p(99)=[36m15000.879211[0m
+     response_time_hazards[2m..................................:[0m avg=[36m1341.188477[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13254.152336[0m p(99)=[36m15002.054582[0m
+     response_time_hazards_active[2m...........................:[0m avg=[36m1386.936025[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13442.666854[0m p(99)=[36m15002.446966[0m
+     response_time_hazards_all[2m..............................:[0m avg=[36m1727.527825[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14337.1675[0m   p(99)=[36m15016.219496[0m
+     response_time_health[2m...................................:[0m avg=[36m1812.182671[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14287.000921[0m p(99)=[36m15016.733322[0m
+     response_time_incident_sub_types[2m.......................:[0m avg=[36m1524.828576[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13835.928552[0m p(99)=[36m15003.491128[0m
+     response_time_incident_sub_types_deleted[2m...............:[0m avg=[36m1554.440878[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14160.459696[0m p(99)=[36m15004.320827[0m
+     response_time_incident_types[2m...........................:[0m avg=[36m1538.402526[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14077.234242[0m p(99)=[36m15004.968212[0m
+     response_time_incident_types_deleted[2m...................:[0m avg=[36m1618.30779[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m14143.022716[0m p(99)=[36m15006.013034[0m
+     response_time_incidents[2m................................:[0m avg=[36m1562.624041[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14188.606813[0m p(99)=[36m15003.14103[0m 
+     response_time_ntrs[2m.....................................:[0m avg=[36m2032.919791[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14373.038139[0m p(99)=[36m15007.082333[0m
+     response_time_observation_sources[2m......................:[0m avg=[36m1532.161763[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14108.297428[0m p(99)=[36m15003.434389[0m
+     response_time_observation_sources_active[2m...............:[0m avg=[36m1506.586107[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14057.322519[0m p(99)=[36m15003.179434[0m
+     response_time_observation_sources_deleted[2m..............:[0m avg=[36m1519.806425[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14034.134942[0m p(99)=[36m15005.489713[0m
+     response_time_observation_sources_dropdown_active[2m......:[0m avg=[36m1628.361408[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14190.962501[0m p(99)=[36m15003.6649[0m  
+     response_time_observation_types[2m........................:[0m avg=[36m1628.835713[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14169.738033[0m p(99)=[36m15006.763422[0m
+     response_time_observation_types_active[2m.................:[0m avg=[36m1572.688257[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14176.645358[0m p(99)=[36m15007.722312[0m
+     response_time_observation_types_deleted[2m................:[0m avg=[36m1607.322499[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14232.099776[0m p(99)=[36m15005.922754[0m
+     response_time_observation_types_dropdown_active[2m........:[0m avg=[36m1589.2769[0m   min=[36m0[0m        med=[36m0[0m      p(95)=[36m14099.828178[0m p(99)=[36m15002.427727[0m
+     response_time_permissions[2m..............................:[0m avg=[36m1695.598788[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14085.453193[0m p(99)=[36m15003.493143[0m
+     response_time_permissions_deleted[2m......................:[0m avg=[36m1614.39802[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m13837.049084[0m p(99)=[36m15006.980064[0m
+     response_time_permissions_dropdown[2m.....................:[0m avg=[36m1606.625648[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14247.275775[0m p(99)=[36m15002.717476[0m
+     response_time_permissions_resources[2m....................:[0m avg=[36m1572.075538[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14256.938671[0m p(99)=[36m15001.048072[0m
+     response_time_roles[2m....................................:[0m avg=[36m1703.184252[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14078.118785[0m p(99)=[36m15004.656991[0m
+     response_time_roles_active[2m.............................:[0m avg=[36m1798.773196[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14290.800146[0m p(99)=[36m15007.466032[0m
+     response_time_roles_deleted[2m............................:[0m avg=[36m1472.948349[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13360.433609[0m p(99)=[36m15001.631116[0m
+     response_time_roles_dropdown[2m...........................:[0m avg=[36m1592.01852[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m14175.860649[0m p(99)=[36m15006.443592[0m
+     response_time_severity_levels[2m..........................:[0m avg=[36m1781.046789[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14326.272168[0m p(99)=[36m15004.015046[0m
+     response_time_severity_levels_active[2m...................:[0m avg=[36m1576.458387[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14062.823362[0m p(99)=[36m15005.631084[0m
+     response_time_severity_levels_deleted[2m..................:[0m avg=[36m1789.941155[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14205.865665[0m p(99)=[36m15003.547386[0m
+     response_time_sites[2m....................................:[0m avg=[36m1545.639467[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14296.827781[0m p(99)=[36m15005.767753[0m
+     response_time_sites_dropdown[2m...........................:[0m avg=[36m1684.02657[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m14324.363008[0m p(99)=[36m15014.337283[0m
+     response_time_sites_hierarchy_tree[2m.....................:[0m avg=[36m1528.488181[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13947.792964[0m p(99)=[36m15001.378212[0m
+     response_time_so[2m.......................................:[0m avg=[36m1747.543638[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14310.398534[0m p(99)=[36m15004.832223[0m
+     response_time_soc[2m......................................:[0m avg=[36m1661.227264[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14263.094395[0m p(99)=[36m15004.22626[0m 
+     response_time_tenant_hierarchy_config[2m..................:[0m avg=[36m1339.436658[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13159.942597[0m p(99)=[36m15002.790271[0m
+     response_time_tenant_hierarchy_config_enabled_types[2m....:[0m avg=[36m1949.779399[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14300.690823[0m p(99)=[36m15003.625455[0m
+     response_time_tenant_hierarchy_config_levels[2m...........:[0m avg=[36m1715.660541[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14057.952653[0m p(99)=[36m15003.991606[0m
+     response_time_tenant_hierarchy_config_root_level[2m.......:[0m avg=[36m1494.753744[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13307.835394[0m p(99)=[36m15010.435625[0m
+     response_time_users_active[2m.............................:[0m avg=[36m1534.10934[0m  min=[36m0[0m        med=[36m0[0m      p(95)=[36m14197.383452[0m p(99)=[36m15008.102176[0m
+     response_time_users_deleted[2m............................:[0m avg=[36m1519.332455[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m13740.147955[0m p(99)=[36m15005.066208[0m
+     response_time_users_dropdown_active[2m....................:[0m avg=[36m1828.191443[0m min=[36m0[0m        med=[36m0[0m      p(95)=[36m14208.044962[0m p(99)=[36m15001.374979[0m
+     vus[2m....................................................:[0m [36m2[0m      [36;2mmin=0[0m        [36;2mmax=10000[0m 
+     vus_max[2m................................................:[0m [36m10000[0m  [36;2mmin=49[0m       [36;2mmax=10000[0m 
+📊 K6 Load Test Summary: uep-api-performance
+📅 Date: 2025-10-09T13:20:21.483Z
+🌐 Base URL: https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net
+🌍 Environment: staging
+⚙️ Test Configuration: Stages: 3m:2000,2m:5000,4m:10000,1m:0
+👥 Max VUs: 10000
+⏱️ Actual Duration: 615.2s
+🔍 Total Requests: 148859
+❌ Failed Requests: 0
+⏳ Delayed Requests (>3s): 20212
+🧹 Cleanup Time: 2.00ms
+🚫 Breached Thresholds: 0
+✅ Check Pass Rate: 48.20%
+🔐 Auth Errors (401/403): 0
+🚨 Rate Limit Errors (429): 0
+🛑 Server Errors (500+): 192
+⚠️ Client Errors (400+): 473
+
+📋 Endpoint Details (Sorted by Failure Rate, then Request Count):
+
+🔗 sites_hierarchy_tree (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/hierarchy/tree)
+  Requests: 645
+  Failure Rate: 7.91% (51 passes, 594 fails)
+  Avg Response Time: 1528.49ms
+  P95 Response Time: 13947.79ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 51
+    Client (400+): 0
+
+
+🔗 departments_main_departments (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/main-departments)
+  Requests: 6408
+  Failure Rate: 7.01% (449 passes, 5959 fails)
+  Avg Response Time: 1390.38ms
+  P95 Response Time: 13926.70ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 449
+
+
+🔗 severity_levels (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels)
+  Requests: 674
+  Failure Rate: 0.59% (4 passes, 670 fails)
+  Avg Response Time: 1781.05ms
+  P95 Response Time: 14326.27ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 4
+    Client (400+): 0
+
+
+🔗 permissions_dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/dropdown)
+  Requests: 629
+  Failure Rate: 0.48% (3 passes, 626 fails)
+  Avg Response Time: 1606.63ms
+  P95 Response Time: 14247.28ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 3
+    Client (400+): 0
+
+
+🔗 hazard_types_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/active)
+  Requests: 655
+  Failure Rate: 0.46% (3 passes, 652 fails)
+  Avg Response Time: 1774.98ms
+  P95 Response Time: 14304.68ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 3
+    Client (400+): 0
+
+
+🔗 hazard_types_all (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types/all)
+  Requests: 632
+  Failure Rate: 0.32% (2 passes, 630 fails)
+  Avg Response Time: 1544.76ms
+  P95 Response Time: 13287.08ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 2
+    Client (400+): 0
+
+
+🔗 roles_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/deleted)
+  Requests: 651
+  Failure Rate: 0.31% (2 passes, 649 fails)
+  Avg Response Time: 1472.95ms
+  P95 Response Time: 13360.43ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 2
+    Client (400+): 0
+
+
+🔗 roles_dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/dropdown)
+  Requests: 694
+  Failure Rate: 0.29% (2 passes, 692 fails)
+  Avg Response Time: 1592.02ms
+  P95 Response Time: 14175.86ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 2
+    Client (400+): 0
+
+
+🔗 incidents (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incidents)
+  Requests: 6597
+  Failure Rate: 0.20% (13 passes, 6584 fails)
+  Avg Response Time: 1562.62ms
+  P95 Response Time: 14188.61ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 13
+    Client (400+): 0
+
+
+🔗 soc (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/soc)
+  Requests: 6565
+  Failure Rate: 0.20% (13 passes, 6552 fails)
+  Avg Response Time: 1661.23ms
+  P95 Response Time: 14263.09ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 13
+
+
+🔗 observation_types_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/active)
+  Requests: 6654
+  Failure Rate: 0.17% (11 passes, 6643 fails)
+  Avg Response Time: 1572.69ms
+  P95 Response Time: 14176.65ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 11
+    Client (400+): 0
+
+
+🔗 so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so)
+  Requests: 6480
+  Failure Rate: 0.17% (11 passes, 6469 fails)
+  Avg Response Time: 1747.54ms
+  P95 Response Time: 14310.40ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 11
+
+
+🔗 hazard_types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazard-types)
+  Requests: 636
+  Failure Rate: 0.16% (1 passes, 635 fails)
+  Avg Response Time: 1223.14ms
+  P95 Response Time: 13289.83ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 contractors_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/deleted)
+  Requests: 623
+  Failure Rate: 0.16% (1 passes, 622 fails)
+  Avg Response Time: 1712.55ms
+  P95 Response Time: 14242.38ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 roles_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles/active)
+  Requests: 689
+  Failure Rate: 0.15% (1 passes, 688 fails)
+  Avg Response Time: 1798.77ms
+  P95 Response Time: 14290.80ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 permissions (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions)
+  Requests: 665
+  Failure Rate: 0.15% (1 passes, 664 fails)
+  Avg Response Time: 1695.60ms
+  P95 Response Time: 14085.45ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 contractors (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors)
+  Requests: 663
+  Failure Rate: 0.15% (1 passes, 662 fails)
+  Avg Response Time: 1499.88ms
+  P95 Response Time: 14207.58ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 contractors_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/active)
+  Requests: 647
+  Failure Rate: 0.15% (1 passes, 646 fails)
+  Avg Response Time: 1596.48ms
+  P95 Response Time: 13841.16ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 observation_sources_dropdown_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/dropdown/active)
+  Requests: 6637
+  Failure Rate: 0.14% (9 passes, 6628 fails)
+  Avg Response Time: 1628.36ms
+  P95 Response Time: 14190.96ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 9
+    Client (400+): 0
+
+
+🔗 observation_sources_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/active)
+  Requests: 6491
+  Failure Rate: 0.14% (9 passes, 6482 fails)
+  Avg Response Time: 1506.59ms
+  P95 Response Time: 14057.32ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 9
+    Client (400+): 0
+
+
+🔗 roles (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/roles)
+  Requests: 690
+  Failure Rate: 0.14% (1 passes, 689 fails)
+  Avg Response Time: 1703.18ms
+  P95 Response Time: 14078.12ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 1
+    Client (400+): 0
+
+
+🔗 departments_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/deleted)
+  Requests: 6748
+  Failure Rate: 0.13% (9 passes, 6739 fails)
+  Avg Response Time: 1462.22ms
+  P95 Response Time: 13960.19ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 9
+    Client (400+): 0
+
+
+🔗 observation_sources (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources)
+  Requests: 6399
+  Failure Rate: 0.13% (8 passes, 6391 fails)
+  Avg Response Time: 1532.16ms
+  P95 Response Time: 14108.30ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 8
+    Client (400+): 0
+
+
+🔗 observation_types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types)
+  Requests: 6604
+  Failure Rate: 0.12% (8 passes, 6596 fails)
+  Avg Response Time: 1628.84ms
+  P95 Response Time: 14169.74ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 8
+    Client (400+): 0
+
+
+🔗 incident_types_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types/deleted)
+  Requests: 6625
+  Failure Rate: 0.11% (7 passes, 6618 fails)
+  Avg Response Time: 1618.31ms
+  P95 Response Time: 14143.02ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 7
+    Client (400+): 0
+
+
+🔗 observation_sources_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-sources/deleted)
+  Requests: 6590
+  Failure Rate: 0.11% (7 passes, 6583 fails)
+  Avg Response Time: 1519.81ms
+  P95 Response Time: 14034.13ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 7
+    Client (400+): 0
+
+
+🔗 departments (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments)
+  Requests: 6456
+  Failure Rate: 0.11% (7 passes, 6449 fails)
+  Avg Response Time: 1608.11ms
+  P95 Response Time: 14176.44ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 7
+    Client (400+): 0
+
+
+🔗 incident_sub_types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types)
+  Requests: 6393
+  Failure Rate: 0.11% (7 passes, 6386 fails)
+  Avg Response Time: 1524.83ms
+  P95 Response Time: 13835.93ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 7
+    Client (400+): 0
+
+
+🔗 observation_types_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/deleted)
+  Requests: 6705
+  Failure Rate: 0.10% (7 passes, 6698 fails)
+  Avg Response Time: 1607.32ms
+  P95 Response Time: 14232.10ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 7
+    Client (400+): 0
+
+
+🔗 incident_sub_types_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-sub-types/deleted)
+  Requests: 6569
+  Failure Rate: 0.09% (6 passes, 6563 fails)
+  Avg Response Time: 1554.44ms
+  P95 Response Time: 14160.46ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 6
+    Client (400+): 0
+
+
+🔗 observation_types_dropdown_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/observation-types/dropdown/active)
+  Requests: 6640
+  Failure Rate: 0.08% (5 passes, 6635 fails)
+  Avg Response Time: 1589.28ms
+  P95 Response Time: 14099.83ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 5
+    Client (400+): 0
+
+
+🔗 departments_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/departments/active)
+  Requests: 6554
+  Failure Rate: 0.05% (3 passes, 6551 fails)
+  Avg Response Time: 1468.95ms
+  P95 Response Time: 13558.44ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 3
+    Client (400+): 0
+
+
+🔗 incident_types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/incident-types)
+  Requests: 6553
+  Failure Rate: 0.03% (2 passes, 6551 fails)
+  Avg Response Time: 1538.40ms
+  P95 Response Time: 14077.23ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 2
+    Client (400+): 0
+
+
+🔗 contractors_dropdown_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/contractors/dropdown/active)
+  Requests: 707
+  Failure Rate: 0.00% (0 passes, 707 fails)
+  Avg Response Time: 1407.54ms
+  P95 Response Time: 12692.08ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 hazards_all (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/all)
+  Requests: 687
+  Failure Rate: 0.00% (0 passes, 687 fails)
+  Avg Response Time: 1727.53ms
+  P95 Response Time: 14337.17ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 tenant_hierarchy_config_enabled_types (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/enabled-types)
+  Requests: 686
+  Failure Rate: 0.00% (0 passes, 686 fails)
+  Avg Response Time: 1949.78ms
+  P95 Response Time: 14300.69ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 severity_levels_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/active)
+  Requests: 679
+  Failure Rate: 0.00% (0 passes, 679 fails)
+  Avg Response Time: 1576.46ms
+  P95 Response Time: 14062.82ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 designations_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/active)
+  Requests: 677
+  Failure Rate: 0.00% (0 passes, 677 fails)
+  Avg Response Time: 1480.59ms
+  P95 Response Time: 13773.74ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 sites_dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites/dropdown)
+  Requests: 667
+  Failure Rate: 0.00% (0 passes, 667 fails)
+  Avg Response Time: 1684.03ms
+  P95 Response Time: 14324.36ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 ntrs (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/ntrs)
+  Requests: 665
+  Failure Rate: 0.00% (0 passes, 665 fails)
+  Avg Response Time: 2032.92ms
+  P95 Response Time: 14373.04ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 permissions_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/deleted)
+  Requests: 659
+  Failure Rate: 0.00% (0 passes, 659 fails)
+  Avg Response Time: 1614.40ms
+  P95 Response Time: 13837.05ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 sites (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/sites)
+  Requests: 659
+  Failure Rate: 0.00% (0 passes, 659 fails)
+  Avg Response Time: 1545.64ms
+  P95 Response Time: 14296.83ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 designations_dropdown (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/dropdown)
+  Requests: 659
+  Failure Rate: 0.00% (0 passes, 659 fails)
+  Avg Response Time: 1690.98ms
+  P95 Response Time: 14145.43ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 hazards (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards)
+  Requests: 658
+  Failure Rate: 0.00% (0 passes, 658 fails)
+  Avg Response Time: 1341.19ms
+  P95 Response Time: 13254.15ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 designations_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations/deleted)
+  Requests: 656
+  Failure Rate: 0.00% (0 passes, 656 fails)
+  Avg Response Time: 1509.85ms
+  P95 Response Time: 14233.29ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 users_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/deleted)
+  Requests: 643
+  Failure Rate: 0.00% (0 passes, 643 fails)
+  Avg Response Time: 1519.33ms
+  P95 Response Time: 13740.15ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 permissions_resources (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/permissions/resources)
+  Requests: 641
+  Failure Rate: 0.00% (0 passes, 641 fails)
+  Avg Response Time: 1572.08ms
+  P95 Response Time: 14256.94ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 users_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/active)
+  Requests: 641
+  Failure Rate: 0.00% (0 passes, 641 fails)
+  Avg Response Time: 1534.11ms
+  P95 Response Time: 14197.38ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 tenant_hierarchy_config_root_level (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/root-level)
+  Requests: 638
+  Failure Rate: 0.00% (0 passes, 638 fails)
+  Avg Response Time: 1494.75ms
+  P95 Response Time: 13307.84ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 severity_levels_deleted (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/severity-levels/deleted)
+  Requests: 638
+  Failure Rate: 0.00% (0 passes, 638 fails)
+  Avg Response Time: 1789.94ms
+  P95 Response Time: 14205.87ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 hazards_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/hazards/active)
+  Requests: 637
+  Failure Rate: 0.00% (0 passes, 637 fails)
+  Avg Response Time: 1386.94ms
+  P95 Response Time: 13442.67ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 tenant_hierarchy_config_levels (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config/levels)
+  Requests: 636
+  Failure Rate: 0.00% (0 passes, 636 fails)
+  Avg Response Time: 1715.66ms
+  P95 Response Time: 14057.95ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 designations (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/designations)
+  Requests: 630
+  Failure Rate: 0.00% (0 passes, 630 fails)
+  Avg Response Time: 1498.50ms
+  P95 Response Time: 14004.34ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 users_dropdown_active (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/users/dropdown/active)
+  Requests: 622
+  Failure Rate: 0.00% (0 passes, 622 fails)
+  Avg Response Time: 1828.19ms
+  P95 Response Time: 14208.04ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 health (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/health)
+  Requests: 610
+  Failure Rate: 0.00% (0 passes, 610 fails)
+  Avg Response Time: 1812.18ms
+  P95 Response Time: 14287.00ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+
+
+🔗 tenant_hierarchy_config (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/tenant-hierarchy-config)
+  Requests: 603
+  Failure Rate: 0.00% (0 passes, 603 fails)
+  Avg Response Time: 1339.44ms
+  P95 Response Time: 13159.94ms
+  Errors:
+    Auth (401/403): 0
+    Rate Limit (429): 0
+    Server (500+): 0
+    Client (400+): 0
+

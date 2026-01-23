@@ -1,0 +1,55 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run K6 Test",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "DURATION=\"${input:duration}\"; if [ -n \"${DURATION}\" ]; then K6_DURATION=$${DURATION}; else K6_DURATION=${env:K6_DURATION}; fi; echo \"Running with K6_DURATION=$${K6_DURATION}\"; K6_DURATION=$${K6_DURATION} ./run.sh"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Open latest report",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "if [ -f summary.html ]; then xdg-open summary.html || echo 'Open summary.html with your file manager'; elif [ -f scripts/summary.html ]; then xdg-open scripts/summary.html || echo 'Open scripts/summary.html with your file manager'; else echo 'No summary.html found. Run tests first.'; fi"
+      ],
+      "presentation": {
+        "reveal": "silent",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Stop k6 (graceful)",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "-lc",
+        "pgrep -f '^k6 ' | xargs -r kill -2 && echo 'Sent SIGINT to running k6 processes' || echo 'No running k6 processes found.'"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "duration",
+      "type": "promptString",
+      "description": "Test duration (e.g. 30s, 2m). Leave empty to use .env or default",
+      "default": ""
+    }
+  ]
+}

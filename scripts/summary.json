@@ -1,0 +1,346 @@
+{
+  "root_group": {
+    "name": "",
+    "path": "",
+    "id": "d41d8cd98f00b204e9800998ecf8427e",
+    "groups": [
+      {
+        "checks": [
+          {
+            "name": "Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "path": "::Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)::Status is success (200/304) - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "id": "217deda4d4e708bec44fe43f79380d97",
+            "passes": 0,
+            "fails": 100
+          },
+          {
+            "name": "Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "path": "::Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)::Response time < 3s - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "id": "7e5e736de026f3ed2d3f6cba7015f4dd",
+            "passes": 0,
+            "fails": 100
+          },
+          {
+            "name": "Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "path": "::Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)::Body not empty - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "id": "d562b0e0d83dbc4a578b2484c068b4de",
+            "passes": 0,
+            "fails": 100
+          },
+          {
+            "fails": 0,
+            "name": "Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "path": "::Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)::Valid JSON - https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+            "id": "bce8ea17cbf73378c9d67310056ee03c",
+            "passes": 100
+          }
+        ],
+        "name": "Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)",
+        "path": "::Endpoint: so (https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10)",
+        "id": "74063bd7a0df6b0075a08ec34e073670",
+        "groups": []
+      }
+    ],
+    "checks": []
+  },
+  "options": {
+    "summaryTrendStats": [
+      "avg",
+      "min",
+      "med",
+      "p(95)",
+      "p(99)"
+    ],
+    "summaryTimeUnit": "",
+    "noColor": false
+  },
+  "state": {
+    "testRunDurationMs": 15344.431462,
+    "isStdOutTTY": true,
+    "isStdErrTTY": true
+  },
+  "metrics": {
+    "http_reqs": {
+      "type": "counter",
+      "contains": "default",
+      "values": {
+        "count": 100,
+        "rate": 6.517022168442463
+      }
+    },
+    "http_req_sending": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "med": 16.632550000000002,
+        "p(95)": 83.11123039999998,
+        "p(99)": 141.03266824000008,
+        "avg": 26.376911569999997,
+        "min": 0.027505
+      }
+    },
+    "checks": {
+      "contains": "default",
+      "values": {
+        "rate": 0.25,
+        "passes": 100,
+        "fails": 300
+      },
+      "thresholds": {
+        "rate>0.9": {
+          "ok": false
+        }
+      },
+      "type": "rate"
+    },
+    "group_duration": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "min": 15000.452397,
+        "med": 15002.9502925,
+        "p(95)": 15027.6720904,
+        "p(99)": 15030.35687056,
+        "avg": 15008.609948120005
+      }
+    },
+    "response_time_so": {
+      "type": "trend",
+      "contains": "default",
+      "values": {
+        "avg": 13812.245034419999,
+        "min": 13709.180112,
+        "med": 13809.8679595,
+        "p(95)": 13905.828290399999,
+        "p(99)": 13919.8308312
+      }
+    },
+    "delayed_requests": {
+      "type": "counter",
+      "contains": "default",
+      "values": {
+        "count": 100,
+        "rate": 6.517022168442463
+      },
+      "thresholds": {
+        "count<100": {
+          "ok": false
+        }
+      }
+    },
+    "data_sent": {
+      "type": "counter",
+      "contains": "data",
+      "values": {
+        "count": 162100,
+        "rate": 10564.092935045233
+      }
+    },
+    "data_received": {
+      "type": "counter",
+      "contains": "data",
+      "values": {
+        "count": 652600,
+        "rate": 42530.08667125552
+      }
+    },
+    "iterations": {
+      "values": {
+        "count": 100,
+        "rate": 6.517022168442463
+      },
+      "type": "counter",
+      "contains": "default"
+    },
+    "http_req_failed": {
+      "contains": "default",
+      "values": {
+        "rate": 1,
+        "passes": 100,
+        "fails": 0
+      },
+      "thresholds": {
+        "rate<0.1": {
+          "ok": false
+        }
+      },
+      "type": "rate"
+    },
+    "requests_so": {
+      "type": "counter",
+      "contains": "default",
+      "values": {
+        "count": 100,
+        "rate": 6.517022168442463
+      }
+    },
+    "cleanup_time": {
+      "type": "trend",
+      "contains": "default",
+      "values": {
+        "avg": 0,
+        "min": 0,
+        "med": 0,
+        "p(95)": 0,
+        "p(99)": 0
+      }
+    },
+    "http_req_duration{endpoint:so}": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "med": 13809.8679595,
+        "p(95)": 13905.828290399999,
+        "p(99)": 13919.8308312,
+        "avg": 13812.245034419997,
+        "min": 13709.180112
+      },
+      "thresholds": {
+        "p(95)<5000": {
+          "ok": false
+        }
+      }
+    },
+    "iteration_duration": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "avg": 15209.059818240004,
+        "min": 15103.589243,
+        "med": 15216.327738,
+        "p(95)": 15292.50015515,
+        "p(99)": 15300.414232660001
+      },
+      "thresholds": {
+        "p(95)<10000": {
+          "ok": false
+        }
+      }
+    },
+    "http_req_connecting": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "avg": 231.48776708999995,
+        "min": 208.530429,
+        "med": 231.16296599999998,
+        "p(95)": 254.6366948,
+        "p(99)": 256.49884053
+      }
+    },
+    "http_req_blocked": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "avg": 1189.0422652499994,
+        "min": 1072.840595,
+        "med": 1193.180007,
+        "p(95)": 1278.9590926,
+        "p(99)": 1290.26329224
+      }
+    },
+    "http_req_duration": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "avg": 13812.245034419997,
+        "min": 13709.180112,
+        "med": 13809.8679595,
+        "p(95)": 13905.828290399999,
+        "p(99)": 13919.8308312
+      },
+      "thresholds": {
+        "p(95)<5000": {
+          "ok": false
+        }
+      }
+    },
+    "failures_so": {
+      "type": "rate",
+      "contains": "default",
+      "values": {
+        "rate": 0,
+        "passes": 0,
+        "fails": 100
+      },
+      "thresholds": {
+        "rate<0.1": {
+          "ok": true
+        }
+      }
+    },
+    "http_req_waiting": {
+      "contains": "time",
+      "values": {
+        "avg": 13785.868122850006,
+        "min": 13699.639536,
+        "med": 13769.575222,
+        "p(95)": 13898.000221600001,
+        "p(99)": 13919.721266519999
+      },
+      "type": "trend"
+    },
+    "http_req_receiving": {
+      "type": "trend",
+      "contains": "time",
+      "values": {
+        "avg": 0,
+        "min": 0,
+        "med": 0,
+        "p(95)": 0,
+        "p(99)": 0
+      }
+    },
+    "http_req_tls_handshaking": {
+      "contains": "time",
+      "values": {
+        "min": 430.817543,
+        "med": 526.4376215,
+        "p(95)": 609.8734181,
+        "p(99)": 623.5948099800002,
+        "avg": 524.2892762300004
+      },
+      "type": "trend"
+    },
+    "vus_max": {
+      "type": "gauge",
+      "contains": "default",
+      "values": {
+        "value": 100,
+        "min": 100,
+        "max": 100
+      }
+    },
+    "vus": {
+      "type": "gauge",
+      "contains": "default",
+      "values": {
+        "value": 100,
+        "min": 100,
+        "max": 100
+      }
+    }
+  },
+  "custom": {
+    "testName": "uep-api-performance",
+    "baseUrl": "https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net",
+    "environment": "staging",
+    "endpointSummary": {
+      "so": {
+        "url": "https://uep-staging-ccayedafayadgzc9.canadacentral-01.azurewebsites.net/api/so?page=1&limit=10",
+        "requests": 100,
+        "failureRate": "0.00",
+        "passes": 0,
+        "fails": 100,
+        "avgResponseTime": "13812.25",
+        "p95ResponseTime": "13905.83",
+        "errors": {
+          "auth": 0,
+          "rateLimit": 0,
+          "server": 0,
+          "client": 0
+        }
+      }
+    }
+  }
+}
